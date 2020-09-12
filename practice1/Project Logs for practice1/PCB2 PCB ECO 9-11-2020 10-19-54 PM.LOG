@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=555_output Pin=SW2-1
+Removed Pin From Net: NetName=555_output Pin=TP2-1
+Removed Pin From Net: NetName=555_output Pin=U1-3
+Added Pin To Net: NetName=555 output Pin=SW2-1
+Added Pin To Net: NetName=555 output Pin=TP2-1
+Added Pin To Net: NetName=555 output Pin=U1-3
+Added Net: Name=555 output
+Added Room: Name=Sheet1
